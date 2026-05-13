@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to Nour Abo lila's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h2 align="center">Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -57,10 +57,20 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-abolila&theme=nightowl&hide_border=true&border_radius=4.9&card_width=503" />
+  <img src="https://streak-stats.demolab.com?user=nour-abolila&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nour-abolila&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nour-abolila&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nour-abolila&theme=tokyonight" width="32%"/>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nour-abolila&theme=tokyonight" width="100%"/>
+</p>
 
