@@ -53,15 +53,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nour-abolila&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nour-abolila&theme=tokyonight" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nour-abolila&theme=tokyonight" width="32%"/>
