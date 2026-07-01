@@ -65,43 +65,38 @@ I'm always learning new technologies and continuously improving my backend devel
 
 # 💻 Tech Stack
 
-## 🚀 Backend
-
-<p>
-
+<h3 align="center">
+🚀 Backend
+</h3>
+<p align="center" >
 <img src="https://skillicons.dev/icons?i=php"/>
 <img src="https://skillicons.dev/icons?i=laravel"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <img src="https://skillicons.dev/icons?i=redis"/>
 <img src="https://skillicons.dev/icons?i=firebase"/>
-
 </p>
 
 
-
-## 🎨 Frontend
-
-<p>
-
+<h3 align="center">
+  🎨 Frontend
+</h3>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
-
 </p>
 
 
-
-## ⚙️ Tools
-
-<p>
-
+<h3 align="center">
+⚙️ Tools
+</h3>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=postman"/>
 <img src="https://skillicons.dev/icons?i=docker"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
 </p>
 
 ---
