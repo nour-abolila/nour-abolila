@@ -48,58 +48,60 @@ I'm always learning new technologies and continuously improving my backend devel
 ---
 
 # 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="left">
 
-<a href="https://linkedin.com/in/nourabolila">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="center">
+
+<a href="https://linkedin.com/in/nourabolila" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" hspace="5"/>
 </a>
 
-<a href="mailto:nouraliabolilanaaltya101@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:nouraliabolilanaaltya101@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" hspace="5"/>
 </a>
+
+<a href="https://wa.me/201062482101" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp" width="45 hspace="5"/>
+</a>
+
+<a href="https://www.facebook.com/nour.abo.lila300" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook" width="45" hspace="5" />
+</a>
+
+
+<a href="https://www.instagram.com/nour_abolila120" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram" width="45" hspace="5"/>
+</a>
+
+
 
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-<h3 align="center">
-🚀 Backend
-</h3>
-<p align="center" >
-<img src="https://skillicons.dev/icons?i=php"/>
-<img src="https://skillicons.dev/icons?i=laravel"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=redis"/>
-<img src="https://skillicons.dev/icons?i=firebase"/>
-</p>
+<h1 align="center">💻 Tech Stack</h1>
 
 
-<h3 align="center">
-  🎨 Frontend
-</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-</p>
-
-
-<h3 align="center">
-⚙️ Tools
-</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
+  <img src="https://skillicons.dev/icons?i=php" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=laravel" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=mysql" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=redis" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=firebase" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=html" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=css" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=git" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=github" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=postman" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=docker" hspace="5"/>
+  <img src="https://skillicons.dev/icons?i=vscode" hspace="5"/>
 </p>
 
 ---
+
 
 # 🏗 Backend Expertise
 
