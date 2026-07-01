@@ -47,41 +47,30 @@ I'm always learning new technologies and continuously improving my backend devel
 
 ---
 
-# 🌐 Connect With Me
-<h2 align="center">🌐 Connect With Me</h2>
-
+<h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
+<a href="https://linkedin.com/in/nourabolila"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:nouraliabolilanaaltya101@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/201062482101"><img src="https://cdn.simpleicons.org/whatsapp" width="48"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/nour.abo.lila300"><img src="https://cdn.simpleicons.org/facebook" width="48"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/nour_abolila120"><img src="https://cdn.simpleicons.org/instagram" width="48"></a>
+</p>
 
-<a href="https://linkedin.com/in/nourabolila" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" hspace="5"/>
-</a>
+---
 
-<a href="mailto:nouraliabolilanaaltya101@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" hspace="5"/>
-</a>
+<h2 align="center">💼 Freelance Platforms</h2>
 
-<a href="https://wa.me/201062482101" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp" width="45 hspace="5"/>
-</a>
-
-<a href="https://www.facebook.com/nour.abo.lila300" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook" width="45" hspace="5" />
-</a>
-
-
-<a href="https://www.instagram.com/nour_abolila120" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram" width="45" hspace="5"/>
-</a>
-
-
-
+<p align="center">
+<a href="https://mostaql.com/u/nourabolila"><img src="https://img.shields.io/badge/Mostaql-009688?style=for-the-badge" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://khamsat.com/user/nourabolila"><img src="https://img.shields.io/badge/Khamsat-FF6B00?style=for-the-badge" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://nafezly.com/u/NourAboLila"><img src="https://img.shields.io/badge/Nafazly-0066FF?style=for-the-badge" height="38"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://kafiil.com/u/nour_abolila"><img src="https://img.shields.io/badge/Kafiil-6A1B9A?style=for-the-badge" height="38"></a>
 </p>
 
 ---
 
 <h1 align="center">💻 Tech Stack</h1>
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php" hspace="5"/>
