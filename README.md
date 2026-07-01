@@ -23,27 +23,17 @@ Backend Developer • PHP • Laravel • REST APIs • Software Architecture
 
 ---
 
-# 👨‍💻 About Me
+
+<h1 align="center">👨‍💻 About Me</h1>
 
 <img align="right" width="280" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
 
 I'm a passionate **Backend Developer** specializing in **PHP** and **Laravel**.
 
-I enjoy building scalable backend systems, RESTful APIs, and solving real-world problems using clean architecture and modern software engineering practices.
+I enjoy building scalable backend systems, RESTful APIs, and solving real-world problems
+using clean architecture and modern software engineering practices.
 
 I'm always learning new technologies and continuously improving my backend development skills.
-
-### 🚀 What I'm focusing on
-
-- RESTful APIs
-- Laravel
-- Software Architecture
-- Design Patterns
-- Clean Code
-- SOLID Principles
-- Performance Optimization
-- Security Best Practices
-- Scalable Applications
 
 ---
 
@@ -89,44 +79,51 @@ I'm always learning new technologies and continuously improving my backend devel
   <img src="https://skillicons.dev/icons?i=vscode" hspace="5"/>
 </p>
 
----
-
-
-# 🏗 Backend Expertise
-
-- 🔐 Authentication & Authorization
-- 🔑 Laravel Sanctum
-- 🌍 Google OAuth2
-- 📩 SMTP & Email Services
-- 🔢 OTP Verification
-- 🔔 Firebase Cloud Messaging (FCM)
-- 🌦 Weather API Integration
-- 📦 Queue Jobs
-- 👀 Observer Pattern
-- 📁 File Upload & Storage
-- 📄 API Resources
-- ✅ Form Requests Validation
-- 🛡 Rate Limiting
-- ⚡ Performance Optimization
-- 🧠 Eloquent ORM
-- 📊 Pagination
-- 🚀 Eager Loading
-- 🧩 SOLID Principles
-- 🏛 MVC Architecture
-- 🧼 Clean Code
 
 ---
 
-# 🚀 Current Learning
+<h1 align="center">🏗 Backend Expertise</h1>
 
-- Software Architecture
-- System Design
-- Docker
-- CI/CD
-- Design Patterns
-- Microservices
-- Redis
-- Caching Strategies
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-121212?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Google OAuth2](https://img.shields.io/badge/Google%20OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-34A853?style=for-the-badge&logo=gmail&logoColor=white)
+![OTP Verification](https://img.shields.io/badge/OTP%20Verification-F57C00?style=for-the-badge&logo=1password&logoColor=white)
+![Firebase FCM](https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Weather API](https://img.shields.io/badge/Weather%20API-03A9F4?style=for-the-badge&logo=openweathermap&logoColor=white)
+![Queue Jobs](https://img.shields.io/badge/Queue%20Jobs-7B1FA2?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Observer Pattern](https://img.shields.io/badge/Observer%20Pattern-00897B?style=for-the-badge&logo=eyeem&logoColor=white)
+![File Upload](https://img.shields.io/badge/File%20Upload-607D8B?style=for-the-badge&logo=icloud&logoColor=white)
+![API Resources](https://img.shields.io/badge/API%20Resources-5E35B1?style=for-the-badge&logo=json&logoColor=white)
+![Form Requests](https://img.shields.io/badge/Form%20Requests-43A047?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-D32F2F?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-E65100?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent%20ORM-C62828?style=for-the-badge&logo=laravel&logoColor=white)
+![Pagination](https://img.shields.io/badge/Pagination-1976D2?style=for-the-badge&logo=pagespeedinsights&logoColor=white)
+![Eager Loading](https://img.shields.io/badge/Eager%20Loading-2E7D32?style=for-the-badge&logo=cachet&logoColor=white)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-00695C?style=for-the-badge&logo=dependabot&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-6A1B9A?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-212121?style=for-the-badge&logo=codefactor&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-546E7A?style=for-the-badge&logo=framework&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-2E7D32?style=for-the-badge&logo=codacy&logoColor=white)
+![Security Best Practices](https://img.shields.io/badge/Security%20Best%20Practices-1565C0?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Scalable Applications](https://img.shields.io/badge/Scalable%20Applications-00897B?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+<h1 align="center">🚀 Current Learning</h1>
+
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-0F172A?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-7C3AED?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-059669?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-14B8A6?style=for-the-badge)
 
 ---
 
