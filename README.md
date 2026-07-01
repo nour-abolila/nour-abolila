@@ -49,7 +49,7 @@ I'm always learning new technologies and continuously improving my backend devel
 
 ---
 
-<h2 align="center">💼 Freelance Platforms</h2>
+<h1 align="center">💼 Freelance Platforms</h1>
 
 <p align="center">
 <a href="https://mostaql.com/u/nourabolila"><img src="https://img.shields.io/badge/Mostaql-009688?style=for-the-badge" height="38"></a>&nbsp;&nbsp;&nbsp;
@@ -126,8 +126,7 @@ I'm always learning new technologies and continuously improving my backend devel
 ![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-14B8A6?style=for-the-badge)
 
 ---
-
-# 📈 Contribution Graph
+<h1 align="center">📈 Contribution Graph</h1>
 
 <p align="center">
 
@@ -136,8 +135,7 @@ I'm always learning new technologies and continuously improving my backend devel
 </p>
 
 ---
-
-# 📊 GitHub Summary
+<h1 align="center">📊 GitHub Summary</h1>
 
 <p align="center">
 
@@ -157,7 +155,7 @@ I'm always learning new technologies and continuously improving my backend devel
 
 ---
 
-# 💡 Quote
+<h1 align="center">💡 Quote</h1>
 
 > **"First, solve the problem. Then, write the code."**
 >
@@ -165,7 +163,7 @@ I'm always learning new technologies and continuously improving my backend devel
 
 ---
 
-# 💚 Thanks for visiting my profile
+<h1 align="center">💚 Thanks for visiting my profile</h1>
 
 <p align="center">
 
